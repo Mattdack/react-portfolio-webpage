@@ -6,6 +6,9 @@ module.exports = {
       spacing: {
         128: "28rem",
       },
+      transiton: {
+        "width": "width",
+      }
     },
   },
   plugins: [],
