@@ -27,7 +27,7 @@ function Portfolio() {
               rel="noreferrer"
               className="inline-block mx-2"
             >
-              <i className="fa fa-github text-3xl text-white"></i>
+              <i className="fa fa-github text-3xl text-blue-600"></i>
             </a>
             <a
               href="https://tech-blog-dacanay.herokuapp.com/"
@@ -37,10 +37,10 @@ function Portfolio() {
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                fill="white"
+                fill="blue"
                 viewBox="0 0 24 24"
                 strokeWidth={1.5}
-                stroke="white"
+                stroke="blue"
                 className="w-6 h-6"
               >
                 <path
@@ -70,7 +70,7 @@ function Portfolio() {
               rel="noreferrer"
               className="inline-block mx-2"
             >
-              <i className="fa fa-github text-3xl text-white"></i>
+              <i className="fa fa-github text-3xl text-blue-600"></i>
             </a>
             <a
               href="https://gloomhaven-helper-deluxe.herokuapp.com/"
@@ -80,10 +80,10 @@ function Portfolio() {
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                fill="white"
+                fill="blue"
                 viewBox="0 0 24 24"
                 strokeWidth={1.5}
-                stroke="white"
+                stroke="blue"
                 className="w-6 h-6"
               >
                 <path
@@ -93,7 +93,7 @@ function Portfolio() {
                 />
               </svg>
             </a>
-            <p className="inline-block text-white align-top mx-2">Gloomhave Helper</p>
+            <p className="inline-block text-white align-top mx-2">Gloomhaven Helper</p>
           </div>
         </div>
 
@@ -113,7 +113,7 @@ function Portfolio() {
               rel="noreferrer"
               className="inline-block mx-2"
             >
-              <i className="fa fa-github text-3xl text-white"></i>
+              <i className="fa fa-github text-3xl text-blue-600"></i>
             </a>
             <p className="inline-block text-white align-top mx-2">E-Commerce Server</p>
           </div>
@@ -135,7 +135,7 @@ function Portfolio() {
               rel="noreferrer"
               className="inline-block mx-2"
             >
-              <i className="fa fa-github text-3xl text-white"></i>
+              <i className="fa fa-github text-3xl text-blue-600"></i>
             </a>
             <p className="inline-block text-white align-top mx-2">Social Media API</p>
           </div>
@@ -157,7 +157,7 @@ function Portfolio() {
               rel="noreferrer"
               className="inline-block mx-2"
             >
-              <i className="fa fa-github text-3xl text-white "></i>
+              <i className="fa fa-github text-3xl text-blue-600 "></i>
             </a>
             <a
               href="https://mattdack.github.io/hiking-app/"
@@ -167,10 +167,10 @@ function Portfolio() {
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                fill="white"
+                fill="blue"
                 viewBox="0 0 24 24"
                 strokeWidth={1.5}
-                stroke="white"
+                stroke="blue"
                 className="w-6 h-6"
               >
                 <path
@@ -200,7 +200,7 @@ function Portfolio() {
               rel="noreferrer"
               className="inline-block mx-2"
             >
-              <i className="fa fa-github text-3xl text-white"></i>
+              <i className="fa fa-github text-3xl text-blue-600"></i>
             </a>
             <a
               href="https://mattdack.github.io/weather-forecast/"
@@ -210,10 +210,10 @@ function Portfolio() {
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                fill="white"
+                fill="blue"
                 viewBox="0 0 24 24"
                 strokeWidth={1.5}
-                stroke="white"
+                stroke="blue"
                 className="w-6 h-6"
               >
                 <path

@@ -38,7 +38,7 @@ function AboutMe() {
             During that course, I created a foundational knowledge base for data
             storage, restful API's and web servers, progressive web
             applications, and React. In addition, I am familiar with Mongo, Sql,
-            and GraphQl database structures. I am excited to continue growing
+            and GraphQL database structures. I am excited to continue growing
             and applying this new skillset.
           </p>
           <br />
