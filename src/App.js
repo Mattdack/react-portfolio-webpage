@@ -10,7 +10,7 @@ import Footer from "./components/Footer"
 function App() {
   return (
     <div className="h-screen">
-       <Router basename="/">
+       <Router basename="/react-portfolio-webpage">
         <Header/>
         <Routes>
           <Route path="/" element={<AboutMe/>}/>

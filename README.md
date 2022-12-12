@@ -1,7 +1,7 @@
 # react-portfolio-website [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This repository generates a react app that hosts a responsive portfolio website to demonstrate my technical proficiencies and highlight the projects that I am most proud of. React.js handles the delivery of the user interface by utilizing various components and pages that I have created. BrowserRouter is utilized to load different pages based off of links selected in the header. Links update styling based off of which page is loaded. useState and various handlers generate a react compatible form that alerts the user when fields are erroneous or missing data. I am most proud of the styling and hover transitions included on the portfolio page.
+This repository generates a react app that hosts a responsive portfolio website to demonstrate my technical proficiencies and highlight the projects that I am most proud of. React.js handles the delivery of the user interface by utilizing various components and pages that I have created. BrowserRouter is utilized to load different pages based off of links selected in the header. Links update styling based off of which page is loaded. useState and various handlers generate a react compatible form that alerts the user when fields are erroneous or missing data. I am most proud of the styling and hover transitions included on the portfolio page. You can view the full application [Here](https://mattdack.github.io/react-portfolio-webpage).
 
 ## Table of Contents
 - [Screenshot](#screenshot)
