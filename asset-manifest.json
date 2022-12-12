@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-webpage/static/css/main.bd2683d6.css",
+    "main.js": "/react-portfolio-webpage/static/js/main.e705bd99.js",
+    "static/media/Partner.jpg": "/react-portfolio-webpage/static/media/Partner.244f94b1c2be7b47ad34.jpg",
+    "static/media/Outdoor.jpg": "/react-portfolio-webpage/static/media/Outdoor.04bf0f20ce28a5f2d884.jpg",
+    "static/media/Dacanay_Matthew.jpg": "/react-portfolio-webpage/static/media/Dacanay_Matthew.3548682d4d0a5af76c6b.jpg",
+    "static/media/Gloomhaven.jpg": "/react-portfolio-webpage/static/media/Gloomhaven.8c344acdd8806f51597a.jpg",
+    "static/media/Science.jpg": "/react-portfolio-webpage/static/media/Science.0fd61e79940bdb96e53a.jpg",
+    "static/media/social-media.jpg": "/react-portfolio-webpage/static/media/social-media.23629967cdc95daab6a9.jpg",
+    "static/media/E-commerce.jpg": "/react-portfolio-webpage/static/media/E-commerce.ac90b2f99b8ead7854a6.jpg",
+    "static/media/Dacanay-CV-2022.pdf": "/react-portfolio-webpage/static/media/Dacanay-CV-2022.765e605e6ed16a3bc64c.pdf",
+    "static/media/blog.jpg": "/react-portfolio-webpage/static/media/blog.ee5813a20b05c79bfa71.jpg",
+    "static/media/weather.jpg": "/react-portfolio-webpage/static/media/weather.03c39bbd50ff1c103257.jpg",
+    "static/media/green-forest.jpg": "/react-portfolio-webpage/static/media/green-forest.d37beed3771ef0b335d1.jpg",
+    "static/media/Hiking.jpg": "/react-portfolio-webpage/static/media/Hiking.7e5050e07d59f510c28d.jpg",
+    "index.html": "/react-portfolio-webpage/index.html",
+    "main.bd2683d6.css.map": "/react-portfolio-webpage/static/css/main.bd2683d6.css.map",
+    "main.e705bd99.js.map": "/react-portfolio-webpage/static/js/main.e705bd99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd2683d6.css",
+    "static/js/main.e705bd99.js"
+  ]
+}
