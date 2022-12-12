@@ -7,7 +7,7 @@ import outdoor from "../../assets/images/Outdoor.jpg";
 
 function AboutMe() {
   return (
-    <div className="AboutMe grid md:grid-cols-2 grid lg:grid-cols-2 backgroundImage h-[82.5%] border-y-4 border-white overflow-auto">
+    <div className="AboutMe grid md:grid-cols-2 grid lg:grid-cols-2 backgroundImage h-[85%] border-y-4 border-white overflow-auto">
       <div className="Photos grid grid-cols-2 place-items-center my-10 md:my-0">
         <img
           src={professional}

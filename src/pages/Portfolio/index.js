@@ -9,10 +9,10 @@ import weather from "../../assets/images/weather.jpg";
 
 function Portfolio() {
   return (
-    <div className="Portfolio bg-teal-500 backgroundImage h-[82.5%]  border-y-4 border-white overflow-auto">
+    <div className="Portfolio bg-teal-500 backgroundImage h-[85%]  border-y-4 border-white overflow-auto">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-center place content-center my-4">
         <div
-          className="group bg-slate-500 sm:h-48 md:h-52 hover:h-56 sm:w-80 md:w-96 hover:w-128 transition-width duration-1000 my-8 border-4 border-slate-300 rounded-md shadow-lg shadow-black"
+          className="group bg-slate-500 h-48 md:h-52 hover:h-56 w-80 md:w-96 hover:w-128 transition-width duration-1000 my-8 border-4 border-slate-300 rounded-md shadow-lg shadow-black"
           style={{
             backgroundImage: `url(${Blog})`,
             backgroundRepeat: "no-repeat",
@@ -55,7 +55,7 @@ function Portfolio() {
         </div>
 
         <div
-          className="group bg-slate-500 sm:h-48 md:h-52 hover:h-56 sm:w-80 md:w-96 hover:w-128 transition-width duration-1000 my-8 border-4 border-slate-300 rounded-md shadow-lg shadow-black"
+          className="group bg-slate-500 h-48 md:h-52 hover:h-56 w-80 md:w-96 hover:w-128 transition-width duration-1000 my-8 border-4 border-slate-300 rounded-md shadow-lg shadow-black"
           style={{
             backgroundImage: `url(${Gloomhaven})`,
             backgroundRepeat: "no-repeat",
@@ -98,7 +98,7 @@ function Portfolio() {
         </div>
 
         <div
-          className="group bg-slate-500 sm:h-48 md:h-52 hover:h-56 sm:w-80 md:w-96 hover:w-128 transition-width duration-1000 my-8 border-4 border-slate-300 rounded-md shadow-lg shadow-black"
+          className="group bg-slate-500 h-48 md:h-52 hover:h-56 w-80 md:w-96 hover:w-128 transition-width duration-1000 my-8 border-4 border-slate-300 rounded-md shadow-lg shadow-black"
           style={{
             backgroundImage: `url(${Econ})`,
             backgroundRepeat: "no-repeat",
@@ -120,7 +120,7 @@ function Portfolio() {
         </div>
 
         <div
-          className="group bg-slate-500 sm:h-48 md:h-52 hover:h-56 sm:w-80 md:w-96 hover:w-128 transition-width duration-1000 my-8 border-4 border-slate-300 rounded-md shadow-lg shadow-black"
+          className="group bg-slate-500 h-48 md:h-52 hover:h-56 w-80 md:w-96 hover:w-128 transition-width duration-1000 my-8 border-4 border-slate-300 rounded-md shadow-lg shadow-black"
           style={{
             backgroundImage: `url(${Social})`,
             backgroundRepeat: "no-repeat",
@@ -142,7 +142,7 @@ function Portfolio() {
         </div>
 
         <div
-          className="group bg-slate-500 sm:h-48 md:h-52 hover:h-56 sm:w-80 md:w-96 hover:w-128 transition-width duration-1000 my-8 border-4 border-slate-300 rounded-md shadow-lg shadow-black"
+          className="group bg-slate-500 h-48 md:h-52 hover:h-56 w-80 md:w-96 hover:w-128 transition-width duration-1000 my-8 border-4 border-slate-300 rounded-md shadow-lg shadow-black"
           style={{
             backgroundImage: `url(${Hiking})`,
             backgroundRepeat: "no-repeat",
@@ -185,7 +185,7 @@ function Portfolio() {
         </div>
 
         <div
-          className="group bg-slate-500 sm:h-48 md:h-52 hover:h-56 sm:w-80 md:w-96 hover:w-128 transition-width duration-1000 my-8 border-4 border-slate-300 rounded-md shadow-lg shadow-black"
+          className="group bg-slate-500 h-48 md:h-52 hover:h-56 w-80 md:w-96 hover:w-128 transition-width duration-1000 my-8 border-4 border-slate-300 rounded-md shadow-lg shadow-black"
           style={{
             backgroundImage: `url(${weather})`,
             backgroundRepeat: "no-repeat",
